@@ -28,7 +28,7 @@ import androidx.core.content.ContextCompat;
 import androidx.core.graphics.Insets;
 import androidx.core.view.ViewCompat;
 import androidx.core.view.WindowInsetsCompat;
-//commit2
+//commit3
 public class MainActivity extends AppCompatActivity {
 
     private static final String TAG = "A7_231A010308";
